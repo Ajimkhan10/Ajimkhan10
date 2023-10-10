@@ -1,0 +1,73 @@
+ What is ec2
+What are types of EC2 instances
+Different types of EC2 Pricing
+29]  What is VPC
+Types of it
+What is region
+What is availability zones
+What is data center
+30]  What is edge cache location or centre
+30]  How to access the ec2 instances
+What are diffrent ways of accessing the ec2 instance
+30]  What is private key and public key
+31]  What is pem and ppk key and different between them
+31]  How to convert pem to ppk
+31]  What is putty and puttygen
+32]  Explain about the types of permissions in Linux
+33]  How to assign permission for file or folder
+33]  Commands to create copy move delete
+Assign permissions for file and folder
+34]  How will you Disk, CPU and memory utilisation
+34]  How will you troubleshoot high disk, CPU and memory utilization
+34]  What will you do if Linux server is slow or not responding or hung
+35]  What will you do if application is loading slow
+35]  What will you do if application is not reachable or down
+35]  What will you do if server is not accessible
+36]  How to reduce the disk space
+36]  What is LVM
+36]  How to kill the running process
+36]  How to kill the process which is consuming more CPU
+36]  What is buffer cache in memory
+37]  What is physical memory
+37]  How Wil you clear the buffer cache
+37]  What is ping, traceroute
+Telnet
+Ssh
+38]  What is port number of ssh, Telnet, smtp, DNS, http,https ftp,stp
+38]  What is s3
+What is default permissions in S3 bucket
+38]  How to replicate the S3 bucket across different regions
+39]  How to change the permission of S3 bucket
+39]  What is static Web hosting  in S3
+39]  What is password less authentication and how to enable it between 2 servers
+40]  How to transfer file using ftp and sftp? Commands?
+41]  what is ftp, sftp
+Different between them
+41]  What is RDS
+41]  What are different types of RDS instances
+41]  How will you create any RDS instance type
+42]  What is IAM
+42]  How will you create users, groups, policies and assign policies to users and groups
+43]  What is Route 53
+43]  What is private and public hosted zones
+43]  How will you register for a domain
+43]  How will you create A, aaaa and ns records
+44]  How will you add alternate domain name
+44]  What is cloud front
+44]  Distribution
+44]  How does it work?
+44]  How to add the alternate domain name in cloud front
+45]  How to make the load balancer to load the traffic to different servers
+45]  Different types of load Balancers
+45]  How will you create application load Balancers
+46]  How will create the target groups and add the servers in the target groups
+47]  What is cloudtrail and cloudwatch
+47]  What is the difference between them
+48]  Is it possible to create memory metrics in Cloud Watch by default?
+48]  How can we add the customer memory metrics?
+48]  In Cloud Watch
+49]  How to add the subscription in cloudwtdh
+49]  What is AWS BUGET, AWS Organization
+49]  AWS SSO
+50]  What is Securiy groups and NACL's
+50]  What is SNS, SQS AND SES
